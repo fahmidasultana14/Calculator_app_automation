@@ -1,6 +1,6 @@
 # Calculator_app_automation
 
-### In this repository i have used Selenium Webdriver and Appium  to automate a calculator app.
+### In this repository I have used Selenium Webdriver and Appium  to automate a calculator app.
 
 ## Scenario
 ### Automate any series for calculator app. Pass the series as a parameter to your test method. For an example:
