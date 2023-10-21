@@ -26,7 +26,7 @@
  - Clone this project
  - Open Terminal
  - Give this following command ```gradle clean test```
- - For generating Allure report, use these commands: allure generate allure-results --clean -output and then allure serve allure-results
+ - For generating Allure report, use these commands:``` allure generate allure-results --clean -output``` and then ```allure serve allure-results```
 
 
  
@@ -37,6 +37,7 @@
 
  
  ## Output Video for Regession Testing
+ https://drive.google.com/file/d/1lfWHouINWjeJgg_CYHQFrCeTWy99EZrW/view?usp=sharing
  
 
  
